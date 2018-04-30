@@ -1,9 +1,11 @@
 # Fast2D-3DFaceTracking
 Fast 2D and 3D Face Tracking with CNNs
 
-[![Watch the video](https://img.youtube.com/vi/AWvbE70I-ys/2.jpg)](https://www.youtube.com/watch?v=AWvbE70I-ys)
+Clik the image for the demo video:
 
-This video is made from a free copy right video with CC0 licence. [source](https://videos.pexels.com/videos/roller-coaster-852415)
+[![Youtube Demo Video](https://img.youtube.com/vi/AWvbE70I-ys/0.jpg)](https://www.youtube.com/watch?v=AWvbE70I-ys)
+
+This video is made from a free copyright video released under the CC0 licence. [Source](https://videos.pexels.com/videos/roller-coaster-852415)
 
 I am still working on the software. It will be uploaded soon.
 For 2D facial landmark detection, we use our WingLoss powered simple CNN-6 model. [GitHub](https://github.com/FengZhenhua/Wing-Loss)
